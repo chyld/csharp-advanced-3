@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace AppLibrary
+﻿namespace AppLibrary
 {
   public class Rectangle
   {
